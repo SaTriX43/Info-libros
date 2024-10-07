@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Info-libros/static/css/main.d0300e44.css",
+    "main.js": "/Info-libros/static/js/main.32b432e1.js",
+    "index.html": "/Info-libros/index.html",
+    "main.d0300e44.css.map": "/Info-libros/static/css/main.d0300e44.css.map",
+    "main.32b432e1.js.map": "/Info-libros/static/js/main.32b432e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0300e44.css",
+    "static/js/main.32b432e1.js"
+  ]
+}
