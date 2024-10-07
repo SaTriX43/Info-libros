@@ -1,0 +1,27 @@
+
+.header {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 150px;
+
+  margin-top: 50px;
+  gap: 15px;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.header__logo {
+  font-size: 50px;
+}
+
+.header__logo span {
+  color: rgb(24, 159, 159);
+}
+
+.header__logo-text {
+  text-align: center;
+  font-family:cursive;
+  color: gray;
+}

@@ -1,0 +1,74 @@
+.main__form {
+  display: flex;
+  width: 100%;
+  max-width: 1200px;
+  height: 35px;
+
+  align-items: center;
+  justify-content: center;
+  transition: all .1s ease;
+}
+
+.main__form:hover {
+  border: 2px solid skyblue;
+}
+
+.main__form-container-input {
+  display: flex;
+  width: 80%;
+  height: 30px;
+
+  padding-right: 10px;
+
+  background-color: white;
+
+  align-items: center;
+  justify-content: space-between;
+}
+
+.main__form-container-input p {
+  color: rgb(193, 191, 191);
+  cursor: pointer;
+  transition: all .2s ease;
+}
+
+.main__form-container-input p:hover {
+  color: black;
+}
+
+.main__form-input {
+  display: flex;
+  width: 80%;
+  height: 30px;
+
+  padding-left: 10px;
+  padding-right: 5px;
+  background-color: transparent;
+  outline: none;
+
+  border: none;
+
+  font-size: 18px;
+
+}
+
+
+/* lupa  */
+
+.main__form-conatiner-search {
+  display: flex;
+  width: 20%;
+  height: 30px;
+
+  background-color: rgb(213, 213, 213);
+
+  align-items: center;
+  justify-content: center;
+
+  transition: all .3s ease;
+  cursor: pointer;
+}
+
+.main__form-conatiner-search:hover {
+  background-color: rgb(148, 148, 148);
+}
